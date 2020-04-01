@@ -11,4 +11,4 @@ The linear model constructed is:
 
 $\sqrt{\hat{filesize}} = 13.6108 + 0.3080 dpi$
 
-The linear model shows that the square root of filesize increases by 1 when dpi is increased by 0.3080.
+The linear model shows that the square root of filesize increases by 0.3080 when dpi is increased by 1.
